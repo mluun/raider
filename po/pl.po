@@ -43,7 +43,7 @@ msgstr "Dodaj pliki"
 
 #: src/raider-application.c:154
 msgid "translator-credits"
-msgstr "Informacje o tłumaczach"
+msgstr "Mira Luna <mlu98@proton.me>"
 
 #: src/raider-progress-info-popover.c:62
 msgid "Finishing up..."
